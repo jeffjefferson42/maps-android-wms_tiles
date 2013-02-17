@@ -4,4 +4,4 @@ This sample project is distributed in the hope that it will be useful,
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with OpenTreeMap.  If not, see <http://www.gnu.org/licenses/>.
+  along with this sample project.  If not, see <http://www.gnu.org/licenses/>.
