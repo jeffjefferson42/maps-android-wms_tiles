@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">WMSDemo</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
-
+    <string name="app_name">Google Maps Android API WMS Tile Overlays</string>
+    
+    <string name="menu_earth_engine">Earth Engine Night Lights</string>
+    <string name="menu_nationalatlas_precip">nationalatlas.gov Precipitation</string>
+    <string name="menu_noaa_warnings">NOAA Watch/Warn</string>
+    <string name="menu_noaa_radar">NOAA Radar</string>
+    <string name="menu_usgs_counties">USGS Counties</string>
+    <string name="menu_openlayers">OpenLayers</string>
 </resources>
